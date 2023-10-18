@@ -1,0 +1,67 @@
+tell all computer algebra from 1800 even from pascal bone to 2021 list all
+ChatGPT
+Listing every computer algebra system (CAS) and development in the field from 1800 to 2021 is a monumental task. Additionally, computer algebra as we know it today didn't exist until the mid-20th century. Here, I'll provide some key milestones and notable systems in the history of computer algebra, starting from the mid-20th century:
+
+MIDAC (Mid-20th Century): The history of computer algebra begins with early machines like MIDAC (Midwestern Universities Research Association Digital Computer), which was one of the first computers used for mathematical computations.
+
+MACSYMA (1960s): Developed at MIT, MACSYMA was one of the first computer algebra systems and is considered a pioneer in symbolic mathematics.
+
+REDUCE (1960s): Developed at the RAND Corporation and later at the University of Utah, REDUCE was another early CAS that aimed to automate algebraic manipulation.
+
+Schoonschip (1970s): A computer algebra system developed by an Amsterdam-based group, Schoonschip was notable for its work in algebraic manipulation and simplification.
+
+Maple (1980s): Maple was developed in the 1980s and is known for its mathematical computation capabilities and symbolic manipulation.
+
+Mathematica (1988): Developed by Wolfram Research, Mathematica is a widely used CAS for mathematical computation, symbolic manipulation, and visualization.
+
+MuPAD (1990s): MuPAD is another commercial CAS known for its symbolic mathematics capabilities.
+
+Maxima (late 1980s, open source): Derived from the original Macsyma, Maxima is an open-source CAS that provides symbolic mathematics and algebraic manipulation.
+
+SymPy (2005, open source): A Python library for symbolic mathematics and computer algebra, SymPy has gained popularity in the open-source community.
+
+SAGE (2005, open source): SAGE is an open-source mathematics software system that integrates various mathematics software components, including computer algebra.
+
+GiNaC (2003, open source): GiNaC is a C++ library for symbolic mathematics and computer algebra.
+
+Axiom (1980s, open source): Axiom is an open-source computer algebra system that includes various mathematical components.
+
+Octave (open source): Although Octave is primarily a numerical computing environment like MATLAB, it incorporates some computer algebra functionality.
+
+Please note that this is not an exhaustive list, and the field of computer algebra has seen numerous developments, both in commercial and open-source systems, since its inception. Additionally, many more specialized and domain-specific computer algebra systems and libraries have been developed over the years. If you need more specific information about a particular system or aspect of computer algebra, please feel free to ask.
+
+
+
+
+User
+yacas and eigen math mathcad tell about them and symbolic computing in c++ julia and sympy in python and matrix and tensor calculus i python
+ChatGPT
+Sure, I can provide information on Yacas, Eigen, Mathcad, symbolic computing in C++ and Julia, SymPy in Python, and matrix and tensor calculus in Python:
+
+Yacas:
+
+Yacas stands for "Yet Another Computer Algebra System." It's an open-source computer algebra system primarily used for symbolic mathematical computation.
+Yacas is written in C++ and has a Lisp-based language for its scripting and symbolic manipulation.
+Eigen:
+
+Eigen is not a computer algebra system; it's a C++ template library for linear algebra. It provides high-performance, specialized matrix and vector operations, making it a popular choice for numerical computations in C++.
+Mathcad:
+
+Mathcad is a commercial computer software system used for mathematical computation, documentation, and visualization.
+It offers a unique "WYSIWYG" (What You See Is What You Get) interface that allows engineers and scientists to create and document mathematical computations and analyses.
+Symbolic Computing in C++:
+
+C++ is not commonly used for symbolic mathematics, but it is possible to perform symbolic calculations using libraries like GiNaC. However, C++ is more widely used for numerical and scientific computing.
+Julia:
+
+Julia is a high-level, high-performance programming language for technical and scientific computing. While it's not a symbolic computing system, Julia has packages like SymPy.jl that allow symbolic mathematics within the Julia environment.
+SymPy in Python:
+
+SymPy is a Python library for symbolic mathematics. It provides features for symbolic manipulation, algebra, calculus, equation solving, and more.
+It is widely used for tasks that require symbolic computation in Python, making it a valuable tool for mathematicians, scientists, and engineers.
+Matrix and Tensor Calculus in Python:
+
+Python offers various libraries for matrix and tensor calculus, including NumPy for basic linear algebra operations.
+For more advanced operations, libraries like SciPy and TensorFlow (for deep learning applications) can handle tensors efficiently.
+SymPy, mentioned earlier, can also perform symbolic matrix and tensor calculus operations.
+In summary, Yacas and SymPy are popular open-source symbolic mathematics systems, while Eigen is a high-performance C++ library for numerical linear algebra. Mathcad is a commercial software package for mathematical documentation. Symbolic computing in C++ is possible but not as common, and Julia can be used for numerical and symbolic mathematics. Python, with libraries like NumPy, SciPy, and SymPy, is a versatile platform for matrix and tensor calculus.
